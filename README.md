@@ -1,4 +1,4 @@
-# Audio to PNG for Convolutional Neural Network training
+# Audio to image (PNG) for Convolutional Neural Network training
 
 The goal of this project is to train a convolutional network with images of sounds, an image is an array of audio bits represented by RGB colors.
 
