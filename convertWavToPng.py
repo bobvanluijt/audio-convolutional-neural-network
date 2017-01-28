@@ -1,7 +1,7 @@
 #####################
 #
-#
-#
+# Convert PNG into WAV
+# Author: @bobvanluijt
 #
 #####################
 
