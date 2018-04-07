@@ -12,6 +12,16 @@ The goal of this project is to train a convolutional network with images of soun
 - Note II: For now the software handles 16bit, 44khz, mono (single channel) files with a max of one second (= 44100 samples).
 - Note III: This is an experiment, any form of feedback is [welcome](https://twitter.com/bobvanluijt)
 
+## Running examples
+
+From WAV to PNG
+
+`$ python convertWavToPng.py input-wav/battle.wav output.png`
+
+from PNG to WAV
+
+`$ python convertPngToWav.py output.png output.wav`
+
 ## Step I: Audio to PNG
 
 Every sample is converted into an RBG value.
